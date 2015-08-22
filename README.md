@@ -13,7 +13,7 @@ https://chrome.google.com/webstore/detail/addfeat-for-bitbucket/kbaiclajonnmjjgc
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](http://opensource.org/licenses/MIT)
 
 ## Author
 
