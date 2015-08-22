@@ -1,0 +1,13 @@
+{
+  "name": "AddFeat",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Add branch name prefix for bitbucket",
+  "content_scripts": [
+    {
+      "matches": ["*://bitbucket.org/*branch*"],
+      "js": ["jquery.min.js","script.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
