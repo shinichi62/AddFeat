@@ -1,10 +1,6 @@
 AddPrefix for Bitbucket
 ====
 
-Overview
-
-## Description
-
 Add branch name prefix for bitbucket
 
 ## Install
